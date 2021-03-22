@@ -1,6 +1,6 @@
 
-## Hi, nice to meet you stranger!
-## Welcome to my GitHub Page, feel free to checkout my repos
+### Hi, nice to meet you stranger!
+### Welcome to my GitHub Page, feel free to checkout my repos
 
 <!--
 **eliuabdiel/eliuabdiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
