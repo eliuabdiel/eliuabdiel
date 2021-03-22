@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style=width:50%>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliuabdiel&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=eliuabdiel&show_icons=true&theme=radical">
 </div>
 <div style=width:50%>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliuabdiel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliuabdiel&layout=compact&theme=radical">
 </div>
 
